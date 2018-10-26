@@ -5,4 +5,5 @@ eureka:
 spring:
   application:
     name: client
-env:dev
+env:
+  dev
