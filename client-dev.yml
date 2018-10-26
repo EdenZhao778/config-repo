@@ -1,4 +1,4 @@
-env: dev222333
+env: dev
 spring:
   application:
     name: client
