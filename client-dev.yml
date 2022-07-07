@@ -5,6 +5,6 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: root
-    url: jdbc:mysql://localhost:3306/springcloud?characterEncoding=utf-8&useSSL=false
+    password: 1qaz@WSX3edc$RFV
+    url: jdbc:mysql://11.1.3.53:13306/ruixun?characterEncoding=utf-8&useSSL=false
 
